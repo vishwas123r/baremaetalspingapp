@@ -49,5 +49,5 @@ jobs:
       with:
         app-name: 'springapp2vishwas'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_4cc1a57b234c4a59ba4ba98d5428465a }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ebb3926232844bdab4322551d1bf53cb }}
         package: '*.jar'
